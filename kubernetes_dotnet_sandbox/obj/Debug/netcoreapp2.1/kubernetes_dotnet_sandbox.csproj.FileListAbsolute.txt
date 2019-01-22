@@ -1,0 +1,14 @@
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/bin/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.deps.json
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/bin/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.runtimeconfig.json
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/bin/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.runtimeconfig.dev.json
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/bin/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.dll
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/bin/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.pdb
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/obj/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.csprojAssemblyReference.cache
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/obj/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.csproj.CoreCompileInputs.cache
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/obj/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.RazorAssemblyInfo.cache
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/obj/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.RazorAssemblyInfo.cs
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/obj/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.AssemblyInfoInputs.cache
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/obj/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.AssemblyInfo.cs
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/obj/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.RazorTargetAssemblyInfo.cache
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/obj/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.dll
+/Users/jay.dave/Desktop/Projects/kubernetes_dotnet_sandbox/kubernetes_dotnet_sandbox/obj/Debug/netcoreapp2.1/kubernetes_dotnet_sandbox.pdb
